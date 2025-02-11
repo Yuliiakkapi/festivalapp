@@ -7,7 +7,7 @@ import DetailPage from "./views/DetailPage";
 
 const router = createBrowserRouter([
   {
-    path: "/project.festival/",
+    path: "/festivalapp/",
     element: <Layout />,
     children: [
       {
